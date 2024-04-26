@@ -1,4 +1,4 @@
-# Video Games Sales Analyis With SQL
+# Video Games Sales Analysis With SQL
 ---------------------------------------------------------------------------------------------------------------------------
 Analyzing an aggregated dataset of video games sales, covering all games (1980-2020) by their sales and rating distribution. 
 ---------------------------------------------------------------------------------------------------------------------------
